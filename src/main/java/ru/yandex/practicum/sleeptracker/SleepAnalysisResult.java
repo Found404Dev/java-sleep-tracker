@@ -12,6 +12,7 @@ public class SleepAnalysisResult {
     public String getDescription() {
         return description;
     }
+
     public Object getValue() {
         return value;
     }
